@@ -1,0 +1,1 @@
+# NTHU-DL-HW3-Word2Vec
